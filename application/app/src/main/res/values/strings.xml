@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StartKotlin</string>
+    <string name="sign">註冊帳號</string>
+    <string name="logo">RunApp</string>
+    <string name="login">登入</string>
+    <string name="cancel">取消</string>
+    <string name="userhint">帳號</string>
+    <string name="pwdhint">密碼</string>
+    <string name="appear">sql connect test</string>
+</resources>
